@@ -2,8 +2,11 @@ function sum (a, b) {
   return a + b
 }
 
-function helper() {
-  console.log('Helper');
+function helper(message) {
+  return message
 }
 
-module.exports = sum
+module.exports = {
+  sum : sum,
+  message: helper
+}
