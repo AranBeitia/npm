@@ -17,17 +17,14 @@
 - [Intro to JS TDD](https://www.youtube.com/watch?v=SbKPgaRZsxA)
 - [README.md Guidelines](https://github.com/othneildrew/Best-README-Template)
 
-  
 ## Authors
 
 - [@AranBeitia](https://www.github.com/AranBeitia)
 - [Repository](https://github.com/AranBeitia/npm)
 
-
-  
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![NPM](https://img.shields.io/badge/npm-v7.21.1-red)](https://www.npmjs.com/)
+[![Lodash](https://img.shields.io/badge/lodash-latest-blue)](https://lodash.com/)
+[![Moment](https://img.shields.io/badge/moment-latest-lightgrey)](https://momentjs.com)
+[![Jest](https://img.shields.io/badge/Jest-latest-green)](https://jestjs.io/)
 
-  
