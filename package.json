@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AranBeitia/npm.git"
+  },
+  "author": "AranBeitia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AranBeitia/npm/issues"
+  },
+  "homepage": "https://github.com/AranBeitia/npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
